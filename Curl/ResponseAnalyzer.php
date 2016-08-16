@@ -6,7 +6,7 @@ namespace Curl;
  * Class ResponseAnalyzer
  *
  * @category PHP
- * @package  Spa
+ * @package  Curl
  * @author   Arno <arnoliu@tencent.com>
  */
 class ResponseAnalyzer

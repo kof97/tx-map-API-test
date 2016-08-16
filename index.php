@@ -1,4 +1,11 @@
 <?php
+/**
+ * API test
+ *
+ * @category PHP
+ * @package  Spa
+ * @author   Arno <arnoliu@tencent.com>
+ */
 
 require './Curl/autoload.php';
 require './Classes/PHPExcel.php';
@@ -67,3 +74,5 @@ array_push($arr, ")\r\n");
 // fwrite($myfile, implode($arr, ''));
 
 // fclose($myfile);
+
+// end of script
