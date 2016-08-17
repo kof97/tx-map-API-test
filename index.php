@@ -70,9 +70,7 @@ array_push($arr, ")\r\n");
 // $objWriter->save('api-test.xlsx');
 
 // $myfile = fopen("res.php", "w") or die("Unable to open file!");
-
 // fwrite($myfile, implode($arr, ''));
-
 // fclose($myfile);
 
 // end of script
