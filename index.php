@@ -3,7 +3,6 @@
  * API test
  *
  * @category PHP
- * @package  Spa
  * @author   Arno <arnoliu@tencent.com>
  */
 
