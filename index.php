@@ -1,6 +1,6 @@
 <?php
 /**
- * API test
+ * Map API test.
  *
  * @category PHP
  * @author   Arno <arnoliu@tencent.com>
